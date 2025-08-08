@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Meep439
-- 👀 I’m interested in programming and chess
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @Meep439!
+- 👀 I’m interested in programming and chess.
+- 🌱 I’m currently learning Python.
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I started programming Python when I was 8.
 
